@@ -1,0 +1,38 @@
+# (Concert_domains)
+
+#### Date, 2024/09/16
+
+#### By *Roy wahome*
+
+## Fetures
+Database Connection: Connect to PostgreSQL using psycopg2.
+CRUD Operations: Create, read, update, and delete (CRUD) operations on bands, concerts, and venues.
+SQL Joins: Use SQL joins to fetch relevant data from multiple tables.
+Environment Variables: Store sensitive information like database credentials using environment variables in a .env file.
+
+## Installation
+You use git clone to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone https://github.com/njuguna1234/phase-3-code-challnge-concerts
+
+
+```
+
+
+
+## Technologies used
+git hub 
+python
+postgress
+
+## Support and contact details
+github.com\njuguna1234
+
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
